@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+## List of skills
+
+- *Maths*
+- _Data_
+- **orienteering**
+- __Communicating__
+- ___Not__ Decision making_
